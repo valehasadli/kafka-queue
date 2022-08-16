@@ -1,12 +1,19 @@
 {
-    "name": "antoniopapa/kafka-queue",
+    "name": "valehasadli/kafka-queue",
+    "description": "Kafka Queue Driver",
     "require": {
-        "laravel/framework": "^8.50"
+        "laravel/framework": "^9.25"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ValehAsadli\\KafkaQueue\\": "src/"
+        }
     },
     "authors": [
         {
-            "name": "Antonio Papa",
-            "email": "antoniopapa1991@gmail.com"
+            "name": "Valeh ASADLI",
+            "email": "valehasadli@gmail.com"
         }
     ]
 }
