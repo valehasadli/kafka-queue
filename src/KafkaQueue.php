@@ -1,7 +1,6 @@
 <?php
 
-
-namespace Kafka;
+namespace namespace ValehAsadli\KafkaQueue;
 
 use Illuminate\Queue\Queue;
 use Illuminate\Contracts\Queue\Queue as QueueContract;
