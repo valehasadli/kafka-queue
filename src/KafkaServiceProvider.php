@@ -1,6 +1,6 @@
 <?php
 
-namespace Kafka;
+namespace namespace ValehAsadli\KafkaQueue;
 
 use Illuminate\Support\ServiceProvider;
 
